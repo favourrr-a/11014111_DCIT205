@@ -1,6 +1,8 @@
 #footer {
     background-color: rgb(24, 21, 95);
-    padding: 30px;
+    padding: 20px;
+    text-align: center;
+    height: 250px;
  }
 
 #submit {
@@ -25,54 +27,40 @@
 
 #bottom{
     position: relative;
-    width: 250px;
-    height: 200px;
+    width: 500px;
+    height: 150px;
     margin: 0 auto;
     display: flex;
+    border: 2px solid black;
+    
 }
 
-#about{
-    position: absolute;
+.footerHeader {
+    text-align: center;
+}
+
+ul{
+    list-style-type: none;
     padding: 0px;
-    top: 0px;
-    left: 30px;
 }
 
-#contact{
-    position: absolute;
-    padding: 0px;
-    top: 0px;
-    left: 100px;
+#allfooter1{
+    display:inline;
+    border: 2px solid black;
+    width: 250px;
+    text-align: center;
 }
 
-#info{
-    position: absolute;
-    padding: 0px;
-    top: 0px;
-    left: 170px;
+#allfooter2{
+    display:inline;
+    border: 2px solid black;
+    width: 250px;
+    text-align: center;
 }
 
-#li1{
-    position: absolute;
-    top: 50px;
-    left: 30px;
-}
-
-#li2{
-    position: absolute;
-    top: 50px;
-    left: 100px;
-}
-
-#li3{
-    position: absolute;
-    top: 50px;
-    left: 170px;
-}
-
-.bottom{
-    width: 50px;
-    height: 50px;
-    border-radius: 50%;
-    clear: left;
+#allfooter3{
+    display:inline;
+    border: 2px solid black;
+    width: 250px;
+    text-align: center;
 }
