@@ -1,3 +1,4 @@
+/*header of the page*/
 #menu {
     text-align: right;
 }
@@ -16,11 +17,18 @@ li.header{
 
 }
 
+
+
+/*main part of the page*/
 body{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
+
+
+
+/*footer of the page*/
 footer {
     background-color: rgb(24, 21, 95);
     padding: 70px;
@@ -44,14 +52,15 @@ footer {
     font-size: larger;
 }
 
-ul{
+ul {
     list-style-type: none;
     padding: 0px;
+    line-height: 25px;
 }
 
 .allFooterLists{
     width: 250px;
-    height: 150px;
+    height: 200px;
     padding: 0 15px;
 }
 
@@ -77,6 +86,9 @@ ul{
     color: whitesmoke;
 }
 
+form{
+    display: inline;
+}
 #form1{
     display: inline;
     padding: 0px;
@@ -91,11 +103,13 @@ ul{
 input[type = email]{
     height: 17px;
     width: 200px;
+    display: inline;
 }
 
 input[type = submit]{
     height: 25px;
     width: 30px;
+    display: inline;
 }
 
 #logoAndSocials{
