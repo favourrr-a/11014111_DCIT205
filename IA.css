@@ -34,11 +34,10 @@ body{
 /*footer of the page*/
 footer {
     background-color: rgb(24, 21, 95);
-    padding: 60px;
+    padding: 50px;
     position: relative;
     box-sizing: border-box;
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;   
 }
 
 #footerContainer{
@@ -48,21 +47,18 @@ footer {
 
 #submit {
     background-color: rgb(167, 112, 49);    
-    
 }
 
 .footerHeader {
     text-align: left;
     color: white;
-    font-size: larger;
-    
+    font-size: larger; 
 }
 
 ul {
     list-style-type: none;
     padding: 0px;
     line-height: 25px;
-    
 }
 
 #LISTS{    
@@ -83,7 +79,6 @@ ul {
 #nextLists{
     display: flex;
     flex-wrap: wrap;
-    
 }
 #copyright{
     font-size: small;
@@ -91,7 +86,6 @@ ul {
     display: flex;
     flex-wrap: wrap;
     padding: 0 15px;
-    
 }
 
 .footer_item{
@@ -105,11 +99,16 @@ ul {
     padding-left: 20px;
     padding-bottom:15px;
     padding-right: 20px;
+    
+}
+
+#formandsocials{
+    display: flex;
+    flex-wrap: wrap;
 }
 #form1{
     display: inline;
-    padding: 0px;
-    
+    padding: 0px;    
 }
 #form2{
     display: inline;
@@ -157,6 +156,25 @@ img{
     position: relative;
 }
 
+.social-icons {
+    display: flex;
+    gap: 10px; 
+    flex-wrap: wrap;
+    height: 200px;
+    padding-top: 15px;
+    padding-left: 20px;
+    padding-bottom:15px;
+    padding-right: 20px; 
+  }
+  
+  .icon {
+    font-size: 60px; /* Adjust the icon size */
+    color: rgb(167, 112, 49);
+    text-decoration: none;
+    margin-right: 20px;
+  }
+  
+
 
 
 /* what happens to links in the header */
@@ -189,6 +207,20 @@ a:hover.footer {
     color: rgb(167, 112, 49);
 }
 a:active.footer {
+    color: darkcyan;
+}
+
+a:link.icon{
+    color: whitesmoke;
+    text-decoration: none;
+}
+a:visited.icon {
+    color: black;
+}
+a:hover.icon {
+    color: rgb(167, 112, 49);
+}
+a:active.icon {
     color: darkcyan;
 }
 
