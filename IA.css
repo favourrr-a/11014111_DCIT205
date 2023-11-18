@@ -145,7 +145,7 @@ input[type = image]{
 }
 
 
-#cslogo {
+#imgHolder{
     height: 200px;
     width: 610px;
     padding-top: 60px;
@@ -153,6 +153,12 @@ input[type = image]{
     padding-right: 15px;
     padding-bottom: 60px;
     text-align: center;
+}
+#cslogo {
+
+    border-radius: 1000px;
+    text-align: center;
+
 }
 
 img{
