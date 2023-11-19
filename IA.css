@@ -6,16 +6,17 @@ img.header {
     position: relative;
 }
 
-li.header {
-    display: inline;   
-    margin: 10px;
-}
 
 nav.header{
-    position: absolute;
     right: 0px;
-    margin: 40px;
-    font-size: large;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+}
+
+a.header{
+    margin-right: 50px;
+    font-size: x-large;
 }
 
 
@@ -24,7 +25,6 @@ nav.header{
     flex-wrap: wrap;
     background-color: rgb(13, 11, 54);
     top: 0px;
-    position: fixed;
     width: 100%;
 }
 
@@ -37,8 +37,10 @@ nav.header{
 
 video.header {
     width: 100%;
-    height: 100%;
+    height: auto;
     top: 0px;
+    object-fit: cover;
+    display: block;
 }
 
 
@@ -52,6 +54,11 @@ body {
     box-sizing: border-box; 
 }
 
+.body{
+    width: 1170px;
+    margin: auto;
+    padding: 20px;
+}
 
 
 /*footer of the page*/
@@ -107,7 +114,7 @@ ul.bottom {
     color:rgb(84, 90, 90);
     display: flex;
     flex-wrap: wrap;
-    padding: 0 15px;
+    padding: 15px;
 }
 
 .footer_item {
