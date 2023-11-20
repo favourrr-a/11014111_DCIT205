@@ -101,10 +101,49 @@ body {
 }
 
 .body{
-    width: 1170px;
+    max-width: 1170px;
     margin: auto;
-    padding: 20px;
+    border: 2px solid black;
+padding: 15px;
+    display: flex;
+    flex-wrap: wrap;
 }
+
+.mainBody{
+}
+.shortCourses{
+}
+
+.bodyHeadingHeading{
+    text-align: left;
+}
+
+h1.shortCoursesH{
+    text-align: left;
+}
+
+p.shortCoursesP{
+    text-align: left;
+}
+
+p.shortCoursesB{
+    text-align: left;
+}
+
+a.shortCoursesB{
+}
+
+.events{
+    width: 200px;
+}
+
+.arrange{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+
 
 
 /*footer of the page*/
@@ -119,6 +158,8 @@ footer {
 #footerContainer {
     max-width: 1170px;
     margin: auto;
+    border: 2px solid black;
+
 }
 
 #submit {
@@ -208,9 +249,6 @@ input[type = image] {
     display: inline;
 }
 
-#logoAndSocials {
-
-}
 
 #LISTSandlogoandSocials {
     display: flex;
