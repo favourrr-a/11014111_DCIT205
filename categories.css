@@ -1,0 +1,39 @@
+
+
+main {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+section {
+    width: 45%; /* Adjust as needed */
+    margin: 10px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    box-sizing: border-box;
+}
+
+.academics-nav {
+    background-color: #444;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    top: 0;
+}
+
+.academics-nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+    font-size: 16px;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Poppins", sans-serif;
+}

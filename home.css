@@ -1,4 +1,4 @@
-/*header of the page*/
+/*header of the home page*/
 
 header{
     position: relative;
@@ -19,7 +19,7 @@ nav.header{
 
 a.header{
     margin-right: 50px;
-    font-size: x-large;
+    font-size: 18px;
 }
 
 
@@ -70,15 +70,15 @@ video.header {
 
 .videoTextA{
     color: white;
-    font-size: 1.5em;
+    font-size: 18px;
 }
 
-#videoContainer{
+.videoContainer{
     position: relative;
 }
 
 .videoTextAHead{
-    font-size: 5em;
+    font-size: 60px;
     margin-bottom: 0px;
 }
 
@@ -99,7 +99,6 @@ body {
     margin: 0;
     padding: 0;
     font-family: "Poppins", sans-serif;
-
 }
 
 * {
@@ -119,7 +118,7 @@ body {
 
 .bodyHeadingHeading{
     padding: 15px;
-    font-size: 2em;
+    font-size: 32px;
 }
 .course-container {
     display: flex;
@@ -137,7 +136,7 @@ body {
 }
 
 .course-category-p{
-    font-size: larger;
+    font-size: 18px;
 }
 
 
@@ -149,152 +148,7 @@ body {
 
 
 /*footer of the page*/
-footer {
-    background-color: rgb(13, 11, 54);
-    padding: 30px;
-    position: relative;
-    box-sizing: border-box;
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;   
-    display: block;
-}
 
-#footerContainer {
-    max-width: 1170px;
-    margin: auto;
-}
-
-#submit {
-    background-color: rgb(167, 112, 49);    
-}
-
-.footerHeader {
-    text-align: left;
-    color: white;
-    font-size: larger; 
-}
-
-ul.bottom {
-    list-style-type: none;
-    padding: 0px;
-    line-height: 25px;
-}
-
-#LISTS {    
-    width: 600px;
-    height: 100%;
-}
-.allFooterLists {
-    width: 250px;
-    height: 200px;
-    padding: 15px;
-}
-
-#firstLists {
-    display: flex;
-    flex-wrap: wrap;
-}
-
-#nextLists {
-    display: flex;
-    flex-wrap: wrap;
-}
-#copyright {
-    font-size: small;
-    color:rgb(84, 90, 90);
-    display: flex;
-    flex-wrap: wrap;
-    padding: 15px;
-}
-
-.footer_item {
-    color: whitesmoke;   
-}
-
-p.footer_item {
-    color:rgb(84, 90, 90);
-}
-
-#form {
-    height: 200px;
-    padding-top: 15px;
-    padding-left: 20px;
-    padding-bottom:15px;
-}
-
-#formAndSubmit {
-    display: flex;
-}
-
-#formandsocials {
-    display: flex;
-}
-#form1 {
-    display: inline;
-    padding: 0px;    
-}
-#form2 {
-    display: inline;
-    padding: 0;
-    position: relative;
-    left: -7px;
-}
-
-input[type = email] {
-    height: 30px;
-    width: 250px;
-    display: inline;
-}
-
-input[type = image] {
-    height: 30px;
-    width: 35px;
-    display: inline;
-}
-
-
-#LISTSandlogoandSocials {
-    display: flex;
-}
-
-
-#imgHolder {
-    height: 200px;
-    width: 610px;
-    padding-top: 60px;
-    padding-left: 15px;
-    padding-right: 15px;
-    padding-bottom: 60px;
-    text-align: center;
-}
-                    
-/*lskfhadlf*/
-#cslogo {
-    border-radius: 1000px;
-    text-align: center;
-}
-
-img.bottom {
-    width: 500px; 
-    height: auto;
-    overflow: hidden;
-    position: relative;
-}
-
-.social-icons {
-    display: flex;
-    gap: 10px; 
-    height: 200px;
-    padding-top: 15px;
-    padding-bottom:15px;
-    padding-right: 20px; 
-  }
-  
-.icon {
-    font-size: 60px;
-    color: rgb(167, 112, 49);
-    text-decoration: none;
-    margin-right: 15px;
-}
 
 
 
@@ -305,7 +159,7 @@ a:link.header {
     text-decoration: none;
 }
 a:visited.header {
-    color: black;
+    color: white;
 }
 a:hover.header {
     color: rgb(167, 112, 49);
@@ -315,33 +169,4 @@ a:active.header {
 }
 
 
-/* what happens to links in the footer */
-
-a:link.footer {
-    color: white;
-    text-decoration: none;
-}
-a:visited.footer {
-    color: black;
-}
-a:hover.footer {
-    color: rgb(167, 112, 49);
-}
-a:active.footer {
-    color: darkcyan;
-}
-
-a:link.icon {
-    color: whitesmoke;
-    text-decoration: none;
-}
-a:visited.icon {
-    color: black;
-}
-a:hover.icon {
-    color: rgb(167, 112, 49);
-}
-a:active.icon {
-    color: darkcyan;
-}
 
