@@ -1,0 +1,68 @@
+
+/*header of all categories page*/
+
+header{
+
+}
+
+img.header {
+    width: 450px; 
+    height: auto;
+}
+
+
+nav.header{
+    right: 0px;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+}
+
+a.header{
+    margin-right: 50px;
+    font-size: 18px;
+}
+
+
+.headerOfSite {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: rgb(13, 11, 54);
+    top: 0px;
+    width: 100%;
+}
+
+.cslogoHeader {
+    background-color: white;
+    width: 450px;
+    border-bottom: 2px solid rgb(13, 11, 54);
+}
+
+img.headerOfSite {
+    width: 100%;
+    height: 200px;
+}
+
+.categoryNav{
+    width: 100%;
+    background-color: black;
+    display: block;
+    text-align: center;
+}
+
+/* what happens to links in the header */
+
+a:link.header {
+    color: white;
+    text-decoration: none;
+}
+a:visited.header {
+    color: white;
+}
+a:hover.header {
+    color: rgb(167, 112, 49);
+}
+a:active.header {
+    color: darkcyan;
+}
+
