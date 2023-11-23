@@ -5,7 +5,7 @@ header{
 }
 
 img.header {
-    width: 450px; 
+    width: 350px; 
     height: auto;
 }
 
@@ -26,7 +26,7 @@ a.header{
 .headerOfSite {
     display: flex;
     flex-wrap: wrap;
-    background-color: rgb(13, 11, 54);
+    background-color: white;    
     top: 0px;
     width: 100%;
     position: absolute;
@@ -35,8 +35,8 @@ a.header{
 
 .cslogoHeader {
     background-color: white;
-    width: 450px;
-    border-bottom: 2px solid rgb(13, 11, 54);
+    width: 350px;
+    padding-left: 20px;
 }
 
 .videoText{
@@ -147,19 +147,15 @@ body {
 
 
 
-/*footer of the page*/
-
-
-
 
 /* what happens to links in the header */
 
 a:link.header {
-    color: white;
+    color: black;
     text-decoration: none;
 }
 a:visited.header {
-    color: white;
+    color: black;
 }
 a:hover.header {
     color: rgb(167, 112, 49);
