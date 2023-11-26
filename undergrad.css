@@ -1,0 +1,85 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.undergradCourses{
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+}
+
+.buttonForCSCourses{
+    width: 100%;
+    text-align: left;
+    height: 40px; 
+    background-color: rgb(13, 11, 54, 0.2);
+    border: none;
+    margin: 5px 5px 5px 0px;
+    padding-left: 5px;
+}
+
+.buttonForITCourses{
+    width: 100%;
+    text-align: left;
+    height: 40px; 
+    background-color: rgb(13, 11, 54, 0.2);
+    border: none;
+    margin: 5px 5px 5px 0px;
+    padding-left: 5px;
+}
+
+
+.hidden-content {
+    display: none;
+    margin-top: 0px; 
+}
+
+.courseCodeAndTitle{
+    display: flex;
+    width: 100%;
+    padding: 0px;
+}
+
+.csprogram, .itprogram{
+    width: 460px;
+}
+
+.itprogram{
+    margin-left: 10px;
+}
+
+h2.progName{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 16px;
+    color: rgb(13, 11, 54);
+    text-decoration: solid;
+}
+
+h1.headingUndergrad{
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+p.courseCode{
+    width: 80px;
+    font-size: 14px;
+}
+
+p.courseTitle{
+    width: 350px;
+    font-size: 14px;
+}
+
+.sem h1{
+    font-size: 15px;
+}
+
+.sem{
+    padding: 0px;
+    margin-bottom: auto;
+}
+
+

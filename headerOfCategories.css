@@ -8,7 +8,7 @@ img.header {
 
 
 nav.header{
-    right: 0px;
+    margin-right: 0px;
     margin-top: auto;
     margin-bottom: auto;
     margin-left: auto;
@@ -16,6 +16,10 @@ nav.header{
 
 a.header{
     margin-right: 40px;
+    font-size: 12px;
+}
+
+a.headerr{
     font-size: 12px;
 }
 
@@ -29,6 +33,7 @@ a.header{
     border-bottom: 2px solid rgb(13, 11, 54);
     margin-bottom: 10px;
     height: 40px;
+    right: 0px;
 }
 
 .innerHeader{
@@ -42,7 +47,6 @@ a.header{
     background-color: rgb(13, 11, 54);
     width: 200px;
     height: 40px;
-    padding-left: 20px;
 }
 
 header img {
@@ -85,17 +89,17 @@ header img {
 
 /* what happens to links in the header */
 
-a:link.header {
+a:link.header,a:link.headerr  {
     color: white;
     text-decoration: none;
 }
-a:visited.header {
+a:visited.header, a:visited.headerr {
     color: white;
 }
-a:hover.header {
+a:hover.header, a:hover.headerr {
     color: rgb(167, 112, 49);
 }
-a:active.header {
+a:active.header a:active.headerr{
     color: rgb(167, 112, 49);
 }
 

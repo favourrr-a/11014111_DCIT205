@@ -44,16 +44,17 @@ a.innerNav{
     background-color: rgb(13, 11, 54);
     color: white;
     width: 170px;
+ 
 }
 
 .innerNavCo h2 {
-    padding: 15px;
+    padding-left: 15px;
     margin-top: 0px;
+    margin-bottom: 0px;
 }
 
 .innerNavCo nav {
     background-color: white;
-    margin-top: -15px;
     line-height: 30px;
     width: 170px;
 }
@@ -96,7 +97,8 @@ a.resourcesCo{
     margin: auto;
     display: flex;
     flex-wrap: wrap;
-    padding: 0px;    
+    padding: 0px; 
+    margin-top: 10px;   
 }
 
 .mainBodyCo{
