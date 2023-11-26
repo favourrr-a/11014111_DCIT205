@@ -1,0 +1,162 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Poppins", sans-serif;
+    background-color: #eeeeee;
+}
+
+.leftOfBody{
+    width: 170px;
+    display: flex; 
+    flex-wrap: wrap;
+    padding-top: 0px;
+}
+
+hr.transparent {
+    border-color: #eeeeee;
+    opacity: 0;
+}
+
+.pushup{
+    padding-top: 0px;
+}
+
+/* navigation within the page */
+.innerNavCo {
+    margin-bottom: 20px;
+    padding-top: 0px;
+}
+a.innerNav{
+    display: block;
+    border-bottom: 0.5px solid lightgray;
+    padding-left: 15px;
+    height: 50px;
+    padding: 15px;
+}
+
+#innerNavL{
+    border-bottom: 1px solid white;
+}
+
+
+.innerNavCo div{
+    background-color: rgb(13, 11, 54);
+    color: white;
+    width: 170px;
+}
+
+.innerNavCo h2 {
+    padding: 15px;
+    margin-top: 0px;
+}
+
+.innerNavCo nav {
+    background-color: white;
+    margin-top: -15px;
+    line-height: 30px;
+    width: 170px;
+}
+
+/* additional resources navigation */
+
+a.resourcesCo{
+    display: block;
+    padding-left: 15px;
+    padding: 15px;
+    color: black;
+    font-size: 8px;
+} 
+
+.resourcesCo div{
+    background-color: white;
+    color: rgb(13, 11, 54);
+    width: 170px;
+    border-top: 2px solid rgb(13, 11, 54);
+    font-size: 8px;
+    padding-bottom: 1px;
+    padding-top: 1px;
+}
+
+.resourcesCo h2{
+    padding-left: 15px;
+}
+
+
+.resourcesCo nav {
+    width: 170px;
+    background-color: #eeeeee;
+}
+
+
+/* actual body of the page*/
+
+.allBody{
+    width: 1170px;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0px;    
+}
+
+.mainBodyCo{
+    display: block;
+    width: 996px;
+}
+
+.mainBody{
+    display: block;
+    margin-left: 30px;
+    background-color: white;
+    padding: 15px; 
+    padding-top: 0px;
+    border-top: 4px solid rgb(13, 11, 54);
+}
+
+
+
+.mainBody h1{
+    font-size: 32px;
+}
+
+.mainBody p{
+    font-size: 18px;
+}
+
+
+/* what happens to links in the navigation */
+
+a:link.innerNav {
+    color: black;
+    text-decoration: none;
+}
+a:visited.innerNav {
+    color: black;
+}
+a:hover.innerNav {
+    color: black;
+    background-color: rgb(167, 112, 49);
+    border: none;
+}
+a:active.innerNav {
+    color: rgb(13, 11, 54);
+}
+
+/* what happens to links in the additional resources */
+
+a:link.resourcesCo {
+    color: black;
+    text-decoration: none;
+}
+a:visited.resourcesCo {
+    color: black;
+}
+a:hover.resourcesCo {
+    color: black;
+    text-decoration: underline;
+    border: none;
+}
+a:active.resourcesCo {
+    color: rgb(13, 11, 54);
+}
+

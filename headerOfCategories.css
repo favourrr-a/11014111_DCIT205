@@ -2,7 +2,7 @@
 /*header of all categories page*/
 
 img.header {
-    width: 350px; 
+    width: 200px; 
     height: auto;
 }
 
@@ -15,44 +15,100 @@ nav.header{
 }
 
 a.header{
-    margin-right: 50px;
-    font-size: 18px;
+    margin-right: 40px;
+    font-size: 12px;
 }
 
 
 .headerOfSite {
     display: flex;
     flex-wrap: wrap;
-    background-color: white;    
+    background-color: rgb(13, 11, 54);    
     top: 0px;
     width: 100%;
+    border-bottom: 2px solid rgb(13, 11, 54);
+    margin-bottom: 10px;
+    height: 40px;
+}
+
+.innerHeader{
+    width: 1170px;
+    margin: auto;
+    display: flex;
+    height: 40px;
 }
 
 .cslogoHeader {
-    background-color: white;
-    width: 350px;
+    background-color: rgb(13, 11, 54);
+    width: 200px;
+    height: 40px;
     padding-left: 20px;
 }
 
-img.headerOfSite {
-    width: 100%;
+header img {
+    width: 1170px;
     height: 400px;
+}
+
+.imageCo {
+    width: 1170px;
+    height: 400px;
+    margin: auto;
+    display: flex;
+    align-items: center; 
+    justify-content: center; 
+}
+
+.imageText{
+    position: absolute;
+    width: 1170px;
+    margin: auto;
+    text-align: center;
+    font-size: 12px;
+    z-index: 2;
+    color: white;
+}
+
+.imageText img{
+    width: 18px;
+    height: 18px;
+    margin-bottom: -5px;
+}
+
+.overlay {
+    position: absolute;
+    width: 1170px;
+    height: 400px;
+    background: rgba(0, 0, 0, 0.5); 
+    z-index: 1;
 }
 
 /* what happens to links in the header */
 
 a:link.header {
-    color: black;
+    color: white;
     text-decoration: none;
 }
 a:visited.header {
-    color: black;
+    color: white;
 }
 a:hover.header {
     color: rgb(167, 112, 49);
 }
 a:active.header {
-    color: darkcyan;
+    color: rgb(167, 112, 49);
 }
 
-
+.imageText a:link {
+    color: white;
+    text-decoration: none;
+}
+.imageText a:visited {
+    color: white;
+}
+.imageText a:hover {
+    color: rwhitegb(167, 112, 49);
+}
+.imageText a:active  {
+    color: white;
+}
