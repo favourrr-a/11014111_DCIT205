@@ -38,8 +38,12 @@
     padding: 0px;
 }
 
-.progA, .progB{
+.progA, .progB, .progImage{
     width: 450px;
+}
+
+.progImage{
+    margin-top: 5px;
 }
 
 .progB{
