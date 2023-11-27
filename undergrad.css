@@ -1,16 +1,12 @@
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
 
-.undergradCourses{
+
+.progCourses{
     display: flex;
     flex-wrap: wrap;
     margin: auto;
 }
 
-.buttonForCSCourses{
+.buttonForProgA{
     width: 100%;
     text-align: left;
     height: 40px; 
@@ -20,12 +16,7 @@
     padding-left: 5px;
 }
 
-p.plusS{
-    position: absolute;
-    right: 10px;
-    border: 2px solid red;
-}
-.buttonForITCourses{
+.buttonForProgB{
     width: 100%;
     text-align: left;
     height: 40px; 
@@ -47,11 +38,11 @@ p.plusS{
     padding: 0px;
 }
 
-.csprogram, .itprogram{
-    width: 460px;
+.progA, .progB{
+    width: 450px;
 }
 
-.itprogram{
+.progB{
     margin-left: 10px;
 }
 
@@ -63,7 +54,7 @@ h2.progName{
     text-decoration: solid;
 }
 
-h1.headingUndergrad{
+h1.headingEduLevel{
     font-size: 20px;
     margin-top: 20px;
 }

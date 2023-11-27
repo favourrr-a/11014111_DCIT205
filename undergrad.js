@@ -1,5 +1,5 @@
-var levelButtonsCS = document.getElementsByClassName('buttonForCSCourses');
-var levelButtonsIT = document.getElementsByClassName('buttonForITCourses')
+var levelButtonsCS = document.getElementsByClassName('buttonForProgA');
+var levelButtonsIT = document.getElementsByClassName('buttonForProgB')
 for (var i = 0; i < levelButtonsCS.length; i++) {
     levelButtonsCS[i].addEventListener('click', function() {
         var level = this.getAttribute('data-level');
