@@ -83,3 +83,72 @@ p.courseTitle{
 }
 
 
+
+
+
+.perks{
+    display: flex;
+    flex-wrap: wrap;   
+    margin: auto;
+
+}
+
+.perk{
+    width: 400px;
+    margin: auto;
+    padding: 5px;
+    height: 120px;
+}
+
+.perk p{
+    font-size: 12px;
+}
+
+.perk h1{
+    font-size:18px;
+    text-align: center;
+}
+
+.registerSCCo{
+    align-items: center;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+button.registerSC{
+    width: 100px;
+    height: 30px;
+    margin:auto;
+    border: none;
+    background-color: rgb(167, 112, 49);
+}
+.imagesShortCourses{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 10px;
+    margin: auto;
+}
+
+img.shortCourseImage{
+    width: 210px;
+    height: 200px;
+    margin-bottom: 0px;
+}
+
+.shortCourseImageCo{
+    background-color: rgb(13, 11, 54, 0.5);
+    margin: auto;
+    height: 260px;
+}
+
+.imagesShortCoursesCo p{
+    width: 210px;
+    height: 50px;
+    font-size: 12px;
+    text-decoration:solid;
+    padding-left: 5px;
+    padding-right: 5px;
+    color: white;
+}
+
+
