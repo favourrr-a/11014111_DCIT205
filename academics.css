@@ -30,9 +30,9 @@ hr.transparent {
 a.innerNav{
     display: block;
     border-bottom: 0.5px solid lightgray;
-    padding-left: 15px;
     height: 50px;
-    padding: 15px;
+    padding-left: 15px;
+    padding-top: 7.5px;
 }
 
 #innerNavL{
@@ -40,11 +40,12 @@ a.innerNav{
 }
 
 
-.innerNavCo div{
+.h{
     background-color: rgb(13, 11, 54);
     color: white;
     width: 170px;
- 
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
 
 .innerNavCo h2 {
@@ -63,7 +64,6 @@ a.innerNav{
 
 a.resourcesCo{
     display: block;
-    padding-left: 15px;
     padding: 15px;
     color: black;
     font-size: 8px;
@@ -75,12 +75,15 @@ a.resourcesCo{
     width: 170px;
     border-top: 2px solid rgb(13, 11, 54);
     font-size: 8px;
-    padding-bottom: 1px;
-    padding-top: 1px;
+    margin: 0px;
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
 
 .resourcesCo h2{
     padding-left: 15px;
+    margin-top: 0px;
+    margin-bottom: 0px;
 }
 
 
@@ -88,6 +91,61 @@ a.resourcesCo{
     width: 170px;
     background-color: #eeeeee;
 }
+
+/*click to view items*/
+
+.hiddenParagraphs{
+    display: none;
+    padding: 15px;
+}
+
+.clickButtons {
+    margin-bottom: 20px;
+    padding-top: 0px;
+
+}
+
+.clickButton{
+    display: flex;
+    border-bottom: 0.5px solid lightgray;
+    height: 50px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-right: 0px;
+    padding-left: 0px;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    background-color: white;
+    width: 100%;
+    text-align: left;
+    font-family: "Poppins", sans-serif;
+    font-size: 12px;
+}
+
+.h h2{
+    position: relative;
+    display: flex;
+    width: 100%;
+    padding-left: 15px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.theB{
+    position: relative;
+    display: flex;
+    width: 100%;
+    padding-left: 15px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    vertical-align: middle;
+}
+
+.clickButtonsCo{
+    width: 170px;
+    background-color: white;
+}
+
 
 
 /* actual body of the page*/

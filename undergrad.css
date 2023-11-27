@@ -20,6 +20,11 @@
     padding-left: 5px;
 }
 
+p.plusS{
+    position: absolute;
+    right: 10px;
+    border: 2px solid red;
+}
 .buttonForITCourses{
     width: 100%;
     text-align: left;
