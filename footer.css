@@ -165,7 +165,7 @@ a:link.footer {
     text-decoration: none;
 }
 a:visited.footer {
-    color: black;
+    color: white;
 }
 a:hover.footer {
     color: rgb(167, 112, 49);
@@ -179,7 +179,7 @@ a:link.icon {
     text-decoration: none;
 }
 a:visited.icon {
-    color: black;
+    color: whitesmoke;;
 }
 a:hover.icon {
     color: rgb(167, 112, 49);

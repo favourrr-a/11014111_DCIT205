@@ -18,3 +18,8 @@ document.getElementById('navClickToViewMore4').addEventListener('click', functio
     var hiddenContent = document.getElementById('hiddenItemNavClickToViewMore4');
     hiddenContent.style.display = (hiddenContent.style.display === 'none' || hiddenContent.style.display === '') ? 'block' : 'none';
 });
+
+function scrollToTopic(topicId) {
+    var element = document.getElementById(topicId);
+    window.scrollTo({ top: element.offsetTop, behavior: 'smooth' });
+}

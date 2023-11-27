@@ -1,0 +1,57 @@
+
+.researchTopic{
+    width: 930px; 
+    margin-right: 25px;
+    position: relative;
+    height: 490px;
+    margin-bottom: 20px;
+}
+
+.researchTopic img{
+    position: absolute;
+    height: 340px;
+    left: 0px;
+    top: 0px;
+    width: 500px;
+    z-index: 1;
+}
+
+.divContentsCo{
+    position: absolute;
+    width: 800px;
+    height: 450px;
+    right: 0px;
+    bottom: 0px;
+padding-left: 400px;
+padding-right: 20px;
+
+}
+#topic1{
+    background-color: yellow;
+
+}
+
+#topic2{
+    background-color: orange;
+
+}
+#topic3{
+    background-color: pink;
+}
+
+.divContents{
+    width: 380px;
+    height: 360px;
+}
+.allBody{
+        width: 1170px;
+        margin: auto;
+}
+
+.divContents h4{
+    font-size: 18px;
+}
+
+.divContents p{
+    font-size: 10px;
+}
