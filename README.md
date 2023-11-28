@@ -1,6 +1,6 @@
 # DCIT_205_IA
 # Introduction and Purpose of this website
-This is a 10-page website for the Computer Science Department. 
+This is a 10-page website for the Computer Science Department at the University of Ghana
 
 #### Pages within the website
 + Home
@@ -26,11 +26,11 @@ This is a 10-page website for the Computer Science Department.
 
      ```
       git clone _repository-url_
-     
      ```
 
 ### Setting up the project
-Open the folder and start working on the project
+  + Open the folder and start working on the project. 
+  + In command prompt or git bash, commit changes, and perform other commands while working on the project.
 
 
 # Name and ID
