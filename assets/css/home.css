@@ -69,15 +69,16 @@ video.header {
 
 .videoTextA {
     color: white;
-    font-size: 40px;
+    font-size: 60px;
     width: 550px;
+    line-height: 60px;;
     text-decoration: solid;
 }
 
 
 .videoTextB {
     color: white;
-    font-size: 18px;
+    font-size: 24px;
 }
 
 .videoContainer {
