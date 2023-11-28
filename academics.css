@@ -183,6 +183,28 @@ a.resourcesCo{
     font-size: 18px;
 }
 
+/*about*/
+.hod{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+h3.hod {
+    font-size: 16px;
+}
+
+.hod img{
+    width: 200 px;
+    height: auto;
+}
+
+.hod div{
+    padding: 20px;
+}
+
+
+
 
 /* what happens to links in the navigation */
 

@@ -40,7 +40,7 @@ ul.bottom {
 }
 .allFooterLists {
     width: 250px;
-    height: 200px;
+    height: 220px;
     padding: 15px;
     font-size: 16px;
 }
@@ -75,8 +75,13 @@ p.footer_item {
     color:rgb(84, 90, 90);
 }
 
+li.footer_itemD{
+    font-size: 20px;
+    margin-top:15px;
+    color: whitesmoke; 
+}
 .form {
-    height: 200px;
+    height: 220px;
     padding-top: 15px;
     padding-left: 20px;
     padding-bottom:15px;
@@ -120,7 +125,7 @@ input[type = image] {
 
 
 .imgHolder {
-    height: 200px;
+    height: 220px;
     width: 610px;
     padding-top: 60px;
     padding-left: 15px;
