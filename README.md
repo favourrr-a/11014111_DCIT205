@@ -81,11 +81,35 @@ ID: 11014111
   ![Alt Text](https://github.com/favourrr-a/11014111_DCIT205/blob/main/screenshots%20of%20website/about/Screenshot%202023-11-28%20200013.png)
 
 + Entry Requirements
+  
+  ![Alt Text](https://github.com/favourrr-a/11014111_DCIT205/blob/main/screenshots%20of%20website/entryRequirements/Screenshot%202023-11-28%20203401.png)
+  ![Alt Text](https://github.com/favourrr-a/11014111_DCIT205/blob/main/screenshots%20of%20website/entryRequirements/Screenshot%202023-11-28%20203409.png)
+  ![Alt Text](https://github.com/favourrr-a/11014111_DCIT205/blob/main/screenshots%20of%20website/entryRequirements/Screenshot%202023-11-28%20204017.png)
+  
 + Reasearch
+
+  ![Alt Text](https://github.com/favourrr-a/11014111_DCIT205/blob/main/screenshots%20of%20website/research/Screenshot%202023-11-28%20195816.png)
+  ![Alt Text](https://github.com/favourrr-a/11014111_DCIT205/blob/main/screenshots%20of%20website/research/Screenshot%202023-11-28%20195825.png)
+  ![Alt Text](https://github.com/favourrr-a/11014111_DCIT205/blob/main/screenshots%20of%20website/research/Screenshot%202023-11-28%20195833.png)
+  ![Alt Text](https://github.com/favourrr-a/11014111_DCIT205/blob/main/screenshots%20of%20website/research/Screenshot%202023-11-28%20195841.png)
+  
 + Events
+
+  ![Alt Text](https://github.com/favourrr-a/11014111_DCIT205/blob/main/screenshots%20of%20website/events/Screenshot%202023-11-28%20195851.png)
+  ![Allt Text](https://github.com/favourrr-a/11014111_DCIT205/blob/main/screenshots%20of%20website/events/Screenshot%202023-11-28%20195859.png)
+  ![All Text](https://github.com/favourrr-a/11014111_DCIT205/blob/main/screenshots%20of%20website/events/Screenshot%202023-11-28%20195907.png)
+  ![Alt Text](https://github.com/favourrr-a/11014111_DCIT205/blob/main/screenshots%20of%20website/events/Screenshot%202023-11-28%20195914.png)
+  ![Alt Text](https://github.com/favourrr-a/11014111_DCIT205/blob/main/screenshots%20of%20website/events/Screenshot%202023-11-28%20195914.png)
+  ![Allt Text](https://github.com/favourrr-a/11014111_DCIT205/blob/main/screenshots%20of%20website/events/Screenshot%202023-11-28%20195932.png)
+  
 + About
 
-### What I learnt from this Project
+  ![Alt Text](https://github.com/favourrr-a/11014111_DCIT205/blob/main/screenshots%20of%20website/about/Screenshot%202023-11-28%20195942.png)
+  ![Alt Text](https://github.com/favourrr-a/11014111_DCIT205/blob/main/screenshots%20of%20website/about/Screenshot%202023-11-28%20195951.png)
+  ![Alt Text](https://github.com/favourrr-a/11014111_DCIT205/blob/main/screenshots%20of%20website/about/Screenshot%202023-11-28%20200000.png)
+  ![Alt Text](https://github.com/favourrr-a/11014111_DCIT205/blob/main/screenshots%20of%20website/about/Screenshot%202023-11-28%20200013.png)
+
+  ### What I learnt from this Project
 1. I learnt how to utilize css properties more efficiently
 2. I learnt to work under pressure
 
