@@ -1,0 +1,67 @@
+.eventsType{
+    width: 1170px;
+}
+
+h2.eventsTypeH{
+    font-size: 20px;
+}
+
+.eventsEventsCoCo{
+    margin-bottom: 20px;
+}
+.eventsEventsCo{
+    display: flex;
+    flex-wrap: wrap;
+    width: 1170px;
+    margin-bottom: 20px;
+}
+
+.eventsEvent{
+    position: relative;
+    width: 510px;
+    height: 200px;
+    margin: auto;
+}
+
+.eventsEvent img{
+    width: 250px;
+    position: absolute;
+    left:0px;
+    top: 0px;
+    height: 170px;
+    z-index: 1;
+}
+
+.eventsEvent div {
+    width: 470px;
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+    background-color: #EA526F;
+    height: 170px;
+    padding-left: 230px;
+    padding-right: 15px;
+}
+
+.mainBodyE{
+    display: block;
+    background-color: white;
+    padding: 15px; 
+    padding-top: 0px;
+    width: 1170px;
+}
+
+.eventsEventsCoUp{
+    
+}
+
+.eventsEventUp {
+    width: 700px;
+    position: relative;
+    right: 0px;
+    bottom: 0px;
+    background-color: #EA526F;
+    height: 250px;
+    padding-left: 230px;
+    padding-right: 15px;
+}

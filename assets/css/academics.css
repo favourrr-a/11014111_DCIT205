@@ -30,9 +30,10 @@ hr.transparent {
 a.innerNav{
     display: block;
     border-bottom: 0.5px solid lightgray;
-    height: 50px;
+    height: 70px;
     padding-left: 15px;
     padding-top: 7.5px;
+    font-size: 15px;
 }
 
 a.innerNavS{
@@ -41,7 +42,7 @@ a.innerNavS{
     height: 50px;
     padding-left: 15px;
     padding-top: 7.5px;
-background-color: rgba(219, 151, 92, 0.5);
+    background-color: rgba(219, 151, 92, 0.5);
 }
 
 #innerNavL{
@@ -192,7 +193,25 @@ a.resourcesCo{
     font-size: 18px;
 }
 
+/*about*/
+.hod{
+    display: flex;
+    flex-wrap: wrap;
+}
 
+
+h3.hod {
+    font-size: 16px;
+}
+
+.hod img{
+    width: 200 px;
+    height: auto;
+}
+
+.hod div{
+    padding: 20px;
+}
 
 
 

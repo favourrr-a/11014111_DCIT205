@@ -2,7 +2,7 @@
 /*header of all categories page*/
 
 img.header {
-    width: 200px; 
+    width: 210px; 
     height: auto;
 }
 
@@ -16,7 +16,7 @@ nav.header{
 
 a.header{
     margin-right: 40px;
-    font-size: 12px;
+    font-size: 15px;
 }
 
 a.headerr{
@@ -32,7 +32,7 @@ a.headerr{
     width: 100%;
     border-bottom: 2px solid #242325;;
     margin-bottom: 10px;
-    height: 40px;
+    height: 70px;
     right: 0px;
 }
 

@@ -68,16 +68,19 @@ video.header {
 
 .videoTextA{
     color: white;
+    font-size: 40px;
+    width: 550px;
+    text-decoration: solid;
+}
+
+
+.videoTextB{
+    color: white;
     font-size: 18px;
 }
 
 .videoContainer{
     position: relative;
-}
-
-.videoTextAHead{
-    font-size: 60px;
-    margin-bottom: 0px;
 }
 
 
@@ -97,6 +100,8 @@ body {
     margin: 0;
     padding: 0;
     font-family: "Poppins", sans-serif;
+
+
 }
 
 * {
@@ -104,14 +109,16 @@ body {
 }
 
 .body{
-    max-width: 1170px;
     margin: auto;
     display: flex;
     flex-wrap: wrap;
+    max-width: 1170px;
+
 }
 
 .mainBody{
-    width: 1170px;
+    max-width: 1170px;
+    margin: auto;
 }
 
 .bodyHeadingHeading{
@@ -125,39 +132,72 @@ body {
 }
 
 .course-containerCo{
-    margin: auto;
-}
-.course-container {
-    display: flex;
-    flex-wrap: wrap;
-    padding: 0px;
-    width: 1170px;
-    margin-bottom: 10px;
-}
 
+
+    padding-top: 0px;
+    margin: auto;
+
+}
 
 .course-category-p{
     font-size: 18px;
 }
 
-button{
-    border: none;
-    transition: .5s;
-    width: 560px; 
-    box-sizing: border-box;
+.course-category{
     height: 500px;
+    padding-top: 50px;
     padding: 15px;
-    background-color: #EA526F;
-    margin: auto;
+    margin: 20px;;
+    width: 500px;
+
     border-radius: 15px;
 }
 
-button:hover{
+#cat1{
+    background-color: #C9C9EE;
+}
+
+#cat2{
+    background-color: #BAABBD;
+}
+
+#cat3{
+    background-color: #8D7471;
+}
+
+#cat4{
+    background-color: #9F838C;
+}
+
+
+.course-container{
+    display: flex;
+    width: 100%;
+}
+div.course-category:hover{
     transform:scale(1.03);
     z-index: 2;
-    border: 2px solid black;
-
 }
+
+#openPageButton1{
+background-color: #C9C9EE;
+}
+
+#openPageButton2{
+    background-color: #BAABBD;
+  
+}
+
+#openPageButton3{
+    background-color: #9F838C;
+}
+
+
+#openPageButton4{
+    background-color:#8D7471;
+}
+
+
 
 
 
