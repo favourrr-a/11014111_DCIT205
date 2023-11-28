@@ -16,6 +16,13 @@ h2.eventsTypeH{
     margin-bottom: 20px;
 }
 
+.eventsEventUp{
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 20px;
+    margin: auto;
+}
+
 .eventsEvent{
     position: relative;
     width: 510px;
@@ -33,11 +40,11 @@ h2.eventsTypeH{
 }
 
 .eventsEvent div {
+    padding-top: 15px;
     width: 470px;
     position: absolute;
     right: 0px;
     bottom: 0px;
-    background-color: #BAABBD;
     height: 170px;
     padding-left: 230px;
     padding-right: 15px;
@@ -48,7 +55,7 @@ h2.eventsTypeH{
 }
 
 #div2{
-    background-color: #DC965A;
+    background-color: #EDF060;
 }
 .mainBodyE{
     display: block;
@@ -86,4 +93,17 @@ div.eventsEventUp {
     width: 900px;
     background-color: #C9C9EE;
     height: 300px;
+    padding-top: 15px;
+}
+
+.eventsPast1{
+    background-color: #25CED1;
+}
+
+.eventsPast2{
+    background-color: #9F838C;
+ }
+
+.eventsPast3{
+    background-color: #EA526F;
 }
