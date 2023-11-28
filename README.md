@@ -130,7 +130,7 @@ ID: 11014111
    
 4. Building a website takes time and patience. I went into the project headstrong thinking I could finish it within a day or two. I expected things to magically fall into place. They didn't. It took a lot of patience to complete this project. Especially knowing that the computer is never wrong and that any error is caused by me. I believe I've grown more patient than I was before beginning this project. 
 
-5. Practice makes perfect. This has to be one of the most cliche phrases known to man. However, it is very true. As I completed the webpages, one by one, by myself (with the help of google), I got better at it. Things that took me hours to do during the earlier stages of this project took me minutes to complete by the end of the project. Especially how to center a div. I looked it up multiple times. But it took me less time and effort to complete as I did it over and over.
+5. Practice makes perfect. This has to be one of the most cliche phrases known to man. However, it is very true. As I completed the webpages, one by one, by myself (with the help of google), I got better at them. Things that took me hours to do during the earlier stages of this project took me minutes to complete by the end of the project. Especially how to center a div. I looked it up multiple times. But it took me less time and effort to complete as I did it over and over.
 
 I am glad to have taken part in this project. My skills have definitely improved even if only slightly. But knowing that it IS possible to improve, I will do my best to keep building as many projects as I can to get better. 
 
