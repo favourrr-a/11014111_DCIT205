@@ -2,15 +2,17 @@
 # Introduction and Purpose of this website
 This is a 10-page website for the Computer Science Department at the University of Ghana
 
-#### Colour Themes used
-[syntax plugins](<!-- Coolors Palette Widget -->
-      <script src="https://coolors.co/palette-widget/widget.js"></script>
-      <script data-id="029418800526019884">new CoolorsPaletteWidget("029418800526019884", ["c9c9ee","baabbd","9f838c","8d7471","242325"]); </script>)
+####Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+
 
 ### Purpose
-This website was created to be user-friendly and aethetically pleasing to look at while maintaining functionality. It has pages for the various part of the Computer Science department. 
+This website was created to be user-friendly while maintaining functionality. The website has pages for the various aspects of the Computer Science department. 
 
-#### Pages within the website
+### Pages within the website
 + Home
 + Academics
 + Undergraduate
@@ -25,26 +27,30 @@ This website was created to be user-friendly and aethetically pleasing to look a
 
 # How to clone and Setup this project
 ### Cloning
-  1. Locate the repository you want to clone
-  2. Click the code button in the repository
+  1. Locate the repository 
+  2. Click the '<>code' button in the repository
   3. Copy the URL of the repository
   4. Open Git Bash or command prompt on your PC
   5. Navigate to the directory where you want to clone the repository using the cd command
-  6. Enter git clone repository-url. Replace 'repository-url' with the repository's URL
+     ```
+     cd path\to\desired\directory
+     ```
+  7. Enter git clone repository-url. Replace 'repository-url' with the repository's URL
 
      ```
       git clone _repository-url_
      ```
 
 ### Setting up the project
-  + Open the folder and start working on the project. 
-  + In command prompt or git bash, commit changes, and perform other commands while working on the project.
+  + Open the repository.
+  + Open the files inside the folder using a text editor such as Visual Studio Code and start working on the project. 
+  + In command prompt or git bash, commit changes, and perform other commands to keep track of changes made while working on the project.
 
 
 # Name and ID
 
-Name: Favour Ackonu 
-ID: 11014111 
+> Name: Favour Ackonu 
+> ID: 11014111 
 
 # Screenshots of each page of my website
 
@@ -84,7 +90,6 @@ ID: 11014111
 ## Short Courses page
   ![Alt Text](https://github.com/favourrr-a/11014111_DCIT205/blob/main/screenshots%20of%20website/shortCourses/Screenshot%202023-11-28%20203241.png)
   ![Alt Text](https://github.com/favourrr-a/11014111_DCIT205/blob/main/screenshots%20of%20website/shortCourses/Screenshot%202023-11-28%20203249.png)
-  ![Alt Text](https://github.com/favourrr-a/11014111_DCIT205/blob/main/screenshots%20of%20website/shortCourses/Screenshot%202023-11-28%20203305.png)
   ![Alt Text](https://github.com/favourrr-a/11014111_DCIT205/blob/main/screenshots%20of%20website/shortCourses/Screenshot%202023-11-28%20203316.png)
 
 ## Entry Requirements page
@@ -117,8 +122,14 @@ ID: 11014111
   ![Alt Text](https://github.com/favourrr-a/11014111_DCIT205/blob/main/screenshots%20of%20website/about/Screenshot%202023-11-28%20200013.png)
 
 # What I learnt from this Project
-1. I learnt how to utilize css properties more efficiently
-2. I learnt to work under pressure
+1. How to utilize css properties more efficiently
+2. Searching for inspiration online is a game-changer. One challenge I faced while creating this website was not having any design ideas... or rather, having so many I didn't know which ones to use. This made me design and redesign the website multiple times. Changing the colours, themes, fonts, etc. I decided to look up inspiration online from sites meant specifically for design inspiration and it helped me decide on exactly what and how I wanted to go about the website
+3. Looking things up is a normal part of a developer's life. Maybe it is because I am a beginner in web development, but I found myself looking up a lot of things. How certain things work, why they work the way they work, how to implement the understanding of the way they work, etc. Looking things up made things easier for me; stack overflow, GeeksForGeeks, name them. I visited them all.
+4. Building a website takes time and patience. I went into the project headstrong thinking I could finish it within a day or two. I expected things to magically fall into place. They didn't. It took a lot of patience to complete this project. Especially knowing that the computer is never wrong and that any error is caused by me. I did learn a lot from this.
+5. Practice makes perfect. This has got to be one of the most cliche topics ever. However, it is very true. As I completed the webpages, one by one, by myself (and the internet), I got better at it. Things that took me hours to do during the earlier stages of this project took me minutes to complete by the end of the project. The number one being how to center a div. 
 
+> I am glad to have taken part in this project. My skills have definitely improved even if only slightly. But knowing that it IS possible to improve, I will do my best to keep building as many projects as I can to get better. 
+
+> The feeling of having completed a project is exhilirating.
 
 
