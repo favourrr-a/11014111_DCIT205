@@ -43,7 +43,7 @@ a.innerNav{
 .h{
     background-color: rgb(13, 11, 54);
     color: white;
-    width: 170px;
+    width: 180px;
     padding-top: 5px;
     padding-bottom: 5px;
 }
@@ -57,7 +57,7 @@ a.innerNav{
 .innerNavCo nav {
     background-color: white;
     line-height: 30px;
-    width: 170px;
+    width: 180px;
 }
 
 /* additional resources navigation */
@@ -72,7 +72,7 @@ a.resourcesCo{
 .resourcesCo div{
     background-color: white;
     color: rgb(13, 11, 54);
-    width: 170px;
+    width: 180px;
     border-top: 2px solid rgb(13, 11, 54);
     font-size: 8px;
     margin: 0px;
@@ -88,7 +88,7 @@ a.resourcesCo{
 
 
 .resourcesCo nav {
-    width: 170px;
+    width: 180px;
     background-color: #eeeeee;
 }
 
@@ -142,7 +142,7 @@ a.resourcesCo{
 }
 
 .clickButtonsCo{
-    width: 170px;
+    width: 180px;
     background-color: white;
 }
 
