@@ -35,13 +35,51 @@ Name: Favour Ackonu
 ID: 11014111 
 
 ### Screenshots of each page of my website
+
 + Home
+  
   ![Alt Text](https://github.com/favourrr-a/11014111_DCIT205/blob/main/screenshots%20of%20website/home/Screenshot%202023-11-28%20194839.png)
+  ![Alt Text](https://github.com/favourrr-a/11014111_DCIT205/blob/main/screenshots%20of%20website/home/Screenshot%202023-11-28%20201529.png)
+  ![Alt Text](https://github.com/favourrr-a/11014111_DCIT205/blob/main/screenshots%20of%20website/home/Screenshot%202023-11-28%20201537.png)
+  ![Alt Text](https://github.com/favourrr-a/11014111_DCIT205/blob/main/screenshots%20of%20website/home/Screenshot%202023-11-28%20201600.png)
+  ![Alt Text](https://github.com/favourrr-a/11014111_DCIT205/blob/main/screenshots%20of%20website/home/Screenshot%202023-11-28%20203025.png)
+
+
 + Academics
+  
+   ![Alt Text](https://github.com/favourrr-a/11014111_DCIT205/blob/main/screenshots%20of%20website/academics/Screenshot%202023-11-28%20203037.png)
+   ![Alt Text](https://github.com/favourrr-a/11014111_DCIT205/blob/main/screenshots%20of%20website/academics/Screenshot%202023-11-28%20203044.png)
+   ![Alt Text](https://github.com/favourrr-a/11014111_DCIT205/blob/main/screenshots%20of%20website/academics/Screenshot%202023-11-28%20203055.png)
+  
 + Undergraduate
+  
+  ![Alt Text](https://github.com/favourrr-a/11014111_DCIT205/blob/main/screenshots%20of%20website/undergrad/Screenshot%202023-11-28%20195422.png)
+  ![Alt Text](https://github.com/favourrr-a/11014111_DCIT205/blob/main/screenshots%20of%20website/undergrad/Screenshot%202023-11-28%20195429.png)
+  ![Alt Text](https://github.com/favourrr-a/11014111_DCIT205/blob/main/screenshots%20of%20website/undergrad/Screenshot%202023-11-28%20195452.png)
+  ![Alt Text](https://github.com/favourrr-a/11014111_DCIT205/blob/main/screenshots%20of%20website/undergrad/Screenshot%202023-11-28%20203104.png)
+  ![Alt Text](https://github.com/favourrr-a/11014111_DCIT205/blob/main/screenshots%20of%20website/undergrad/Screenshot%202023-11-28%20203104.png)
+  ![Alt Text](https://github.com/favourrr-a/11014111_DCIT205/blob/main/screenshots%20of%20website/undergrad/Screenshot%202023-11-28%20203118.png)
+  ![Alt Text](https://github.com/favourrr-a/11014111_DCIT205/blob/main/screenshots%20of%20website/undergrad/Screenshot%202023-11-28%20203128.png)
+  ![Alt Text](https://github.com/favourrr-a/11014111_DCIT205/blob/main/screenshots%20of%20website/undergrad/Screenshot%202023-11-28%20203136.png)
+  
 + Mphil / Mphil
+
+  ![Alt Text](https://github.com/favourrr-a/11014111_DCIT205/blob/main/screenshots%20of%20website/msc.mphil/Screenshot%202023-11-28%20203146.png)
+  ![Alt Text](https://github.com/favourrr-a/11014111_DCIT205/blob/main/screenshots%20of%20website/msc.mphil/Screenshot%202023-11-28%20203154.png)
+  ![Alt Text](https://github.com/favourrr-a/11014111_DCIT205/blob/main/screenshots%20of%20website/msc.mphil/Screenshot%202023-11-28%20203203.png)
+  
 + PhD
+
+  ![Alt Text](https://github.com/favourrr-a/11014111_DCIT205/blob/main/screenshots%20of%20website/phd/Screenshot%202023-11-28%20203214.png)
+  ![Alt Text](https://github.com/favourrr-a/11014111_DCIT205/blob/main/screenshots%20of%20website/phd/Screenshot%202023-11-28%20203223.png)
+  ![Alt Text](https://github.com/favourrr-a/11014111_DCIT205/blob/main/screenshots%20of%20website/phd/Screenshot%202023-11-28%20203233.png)
+  
 + Short Courses
+  ![Alt Text](https://github.com/favourrr-a/11014111_DCIT205/blob/main/screenshots%20of%20website/about/Screenshot%202023-11-28%20195942.png)
+  ![Alt Text](https://github.com/favourrr-a/11014111_DCIT205/blob/main/screenshots%20of%20website/about/Screenshot%202023-11-28%20195951.png)
+  ![Alt Text](https://github.com/favourrr-a/11014111_DCIT205/blob/main/screenshots%20of%20website/about/Screenshot%202023-11-28%20200000.png)
+  ![Alt Text](https://github.com/favourrr-a/11014111_DCIT205/blob/main/screenshots%20of%20website/about/Screenshot%202023-11-28%20200013.png)
+
 + Entry Requirements
 + Reasearch
 + Events
