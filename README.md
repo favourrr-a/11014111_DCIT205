@@ -122,18 +122,18 @@ ID: 11014111
   ![Alt Text](https://github.com/favourrr-a/11014111_DCIT205/blob/main/screenshots%20of%20website/about/Screenshot%202023-11-28%20200013.png)
 
 # What I learnt from this Project
-1. How to utilize css properties more efficiently
+1. How to utilize CSS properties more efficiently. 
    
-2. Searching for inspiration online is a game-changer. One challenge I faced while creating this website was not having any design ideas... or rather, having so many I didn't know which ones to use. This made me design and redesign the website multiple times. Changing the colours, themes, fonts, etc. I decided to look up inspiration online from sites meant specifically for design inspiration and it helped me decide on exactly what and how I wanted to go about the website.
+2. Searching for inspiration online is a game-changer. One challenge I faced while creating this website was not having any design ideas... or rather, having so many I did not know which ones to use. This made me design and redesign the website multiple times. Changing the colours, themes, fonts, etc. I decided to look up inspiration online from sites meant specifically for design inspiration and it helped me decide on exactly what and how I wanted to go about the website.
    
-3. Looking things up is a normal part of a developer's life. Maybe it is because I am a beginner in web development, but I found myself looking up a lot of things. How certain things work, why they work the way they work, how to implement the understanding of the way they work, etc. Looking things up made me learn a lot of things.
+3. Looking things up is a normal part of a developer's life. Maybe it is because I am a beginner in web development, but I found myself looking up a lot of things. How certain things work, why they work the way they work, how to implement the understanding of the way they work, etc. Looking things up made me learn a lot of new concepts and expand on old ones.
    
-4. Building a website takes time and patience. I went into the project headstrong thinking I could finish it within a day or two. I expected things to magically fall into place. They didn't. It took a lot of patience to complete this project. Especially knowing that the computer is never wrong and that any error is caused by me. I did learn a lot from this.
+4. Building a website takes time and patience. I went into the project headstrong thinking I could finish it within a day or two. I expected things to magically fall into place. They didn't. It took a lot of patience to complete this project. Especially knowing that the computer is never wrong and that any error is caused by me. I believe I've grown more patient than I was before beginning this project. 
 
-5. Practice makes perfect. This has to be one of the most cliche phrases known to man. However, it is very true. As I completed the webpages, one by one, by myself (with the help of internet), I got better at it. Things that took me hours to do during the earlier stages of this project took me minutes to complete by the end of the project. 
+5. Practice makes perfect. This has to be one of the most cliche phrases known to man. However, it is very true. As I completed the webpages, one by one, by myself (with the help of google), I got better at it. Things that took me hours to do during the earlier stages of this project took me minutes to complete by the end of the project. Especially how to center a div. I looked it up multiple times. But it took me less time and effort to complete as I did it over and over.
 
 I am glad to have taken part in this project. My skills have definitely improved even if only slightly. But knowing that it IS possible to improve, I will do my best to keep building as many projects as I can to get better. 
 
-The feeling of having completed a project is exhilirating.
+The feeling of having completed a project is exhilarating.
 
 
