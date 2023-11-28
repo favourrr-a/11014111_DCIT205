@@ -1,5 +1,5 @@
 # DCIT_205_IA
-### Introduction
+# Introduction and Purpose of this website
 This is a 10-page website for the Computer Science Department. 
 
 #### Pages within the website
@@ -14,10 +14,9 @@ This is a 10-page website for the Computer Science Department.
 + Events
 + About
 
----
 
 # How to clone and Setup this project
-## Cloning
+### Cloning
   1. Locate the repository you want to clone
   2. Click the code button in the repository
   3. Copy the URL of the repository
@@ -25,14 +24,13 @@ This is a 10-page website for the Computer Science Department.
   5. Navigate to the directory where you want to clone the repository using the cd command
   6. Enter git clone repository-url. Replace 'repository-url' with the repository's URL
 
-## Setting up the project
+### Setting up the project
 Open the folder and start working on the project
 
-___
 
 # Name and ID
-##Name: Favour Ackonu 
-##ID: 11014111 
+Name: Favour Ackonu 
+ID: 11014111 
 
 # Screenshots of each page of my website
 
