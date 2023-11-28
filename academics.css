@@ -35,13 +35,22 @@ a.innerNav{
     padding-top: 7.5px;
 }
 
+a.innerNavS{
+    display: block;
+    border-bottom: 0.5px solid lightgray;
+    height: 50px;
+    padding-left: 15px;
+    padding-top: 7.5px;
+background-color: rgba(219, 151, 92, 0.5);
+}
+
 #innerNavL{
     border-bottom: 1px solid white;
 }
 
 
 .h{
-    background-color: rgb(13, 11, 54);
+    background-color: #EA526F;
     color: white;
     width: 180px;
     padding-top: 5px;
@@ -73,7 +82,7 @@ a.resourcesCo{
     background-color: white;
     color: rgb(13, 11, 54);
     width: 180px;
-    border-top: 2px solid rgb(13, 11, 54);
+    border-top: 2px solid #EA526F;
     font-size: 8px;
     margin: 0px;
     padding-top: 5px;
@@ -170,7 +179,7 @@ a.resourcesCo{
     background-color: white;
     padding: 15px; 
     padding-top: 0px;
-    border-top: 4px solid rgb(13, 11, 54);
+    border-top: 4px solid #EA526F;
 }
 
 
@@ -208,19 +217,19 @@ h3.hod {
 
 /* what happens to links in the navigation */
 
-a:link.innerNav {
+a:link.innerNav, a:link.innerNavS {
     color: black;
     text-decoration: none;
 }
-a:visited.innerNav {
+a:visited.innerNav, a:visited.innerNavS {
     color: black;
 }
-a:hover.innerNav {
+a:hover.innerNav, a:hover.innerNavS {
     color: black;
-    background-color: rgb(167, 112, 49);
+    background-color: #DC965A;
     border: none;
 }
-a:active.innerNav {
+a:active.innerNav, a:active.innerNavS {
     color: rgb(13, 11, 54);
 }
 
@@ -231,7 +240,7 @@ a:link.resourcesCo {
     text-decoration: none;
 }
 a:visited.resourcesCo {
-    color: black;
+    color: purple;
 }
 a:hover.resourcesCo {
     color: black;

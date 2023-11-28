@@ -27,10 +27,10 @@ a.headerr{
 .headerOfSite {
     display: flex;
     flex-wrap: wrap;
-    background-color: rgb(13, 11, 54);    
+    background-color: #242325;;    
     top: 0px;
     width: 100%;
-    border-bottom: 2px solid rgb(13, 11, 54);
+    border-bottom: 2px solid #242325;;
     margin-bottom: 10px;
     height: 40px;
     right: 0px;
@@ -44,7 +44,7 @@ a.headerr{
 }
 
 .cslogoHeader {
-    background-color: rgb(13, 11, 54);
+    background-color: #242325;
     width: 200px;
     height: 40px;
 }

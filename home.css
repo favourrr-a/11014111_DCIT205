@@ -25,8 +25,7 @@ a.header{
 
 .headerOfSite {
     display: flex;
-    flex-wrap: wrap;
-    background-color: white;    
+    flex-wrap: wrap;   
     top: 0px;
     width: 100%;
     position: absolute;
@@ -34,7 +33,6 @@ a.header{
 }
 
 .cslogoHeader {
-    background-color: white;
     width: 350px;
     padding-left: 15px;
 }
@@ -118,24 +116,47 @@ body {
 
 .bodyHeadingHeading{
     padding: 15px;
-    font-size: 32px;
+    font-size: 40px;
+
+}
+
+.bodyHeadingHeading hr{
+    border-color: #DC965A;
+}
+
+.course-containerCo{
+    margin: auto;
 }
 .course-container {
     display: flex;
     flex-wrap: wrap;
     padding: 0px;
     width: 1170px;
+    margin-bottom: 10px;
 }
 
-.course-category {
-    width: 50%; 
-    box-sizing: border-box;
-    height: 100%;
-    padding: 15px;
-}
 
 .course-category-p{
     font-size: 18px;
+}
+
+button{
+    border: none;
+    transition: .5s;
+    width: 560px; 
+    box-sizing: border-box;
+    height: 500px;
+    padding: 15px;
+    background-color: #EA526F;
+    margin: auto;
+    border-radius: 15px;
+}
+
+button:hover{
+    transform:scale(1.03);
+    z-index: 2;
+    border: 2px solid black;
+
 }
 
 
@@ -150,18 +171,31 @@ body {
 /* what happens to links in the header */
 
 a:link.header {
-    color: black;
+    color: white;
     text-decoration: none;
 }
 a:visited.header {
-    color: black;
+    color: white;
 }
 a:hover.header {
-    color: rgb(167, 112, 49);
+    color: #DC965A;
 }
 a:active.header {
-    color: darkcyan;
+    color: #DC965A;
 }
 
+.course-category-seemore a:link{
+    color: white;
+    text-decoration: none;
+}
 
+.course-category-seemore a:visited{
+    color: white;
+}
+.course-category-seemore a:hover{
+    color: white;
+}
+.course-category-seemore a:active{
+    color: #DC965A;
+}
 
