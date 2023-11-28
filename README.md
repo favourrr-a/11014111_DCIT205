@@ -20,16 +20,15 @@ This is a 10-page website for the Computer Science Department.
 + ## Cloning
   1. Locate the repository you want to clone
   2. Click the code button in the repository
-  3. Copy the url of the repository
+  3. Copy the URL of the repository
   4. Open Git Bash or command prompt on your PC
   5. Navigate to the directory where you want to clone the repository using the cd command
-  6. Enter git clone <repository-url>. Replace 'repository-url; with the repsoitory's url
+  6. Enter git clone repository-url. Replace 'repository-url' with the repository's URL
 
 + ## Setting up the project
-  1. Navigate to the directory of the cloned repository
-  2. Start working on the project.
+  Open the folder and start working on the project
 
----
+___
 
 ### Name and ID
 Name: Favour Ackonu 
@@ -37,6 +36,7 @@ ID: 11014111
 
 ### Screenshots of each page of my website
 + Home
+  ![Alt Text](https://github.com/favourrr-a/11014111_DCIT205/blob/main/screenshots%20of%20website/home/Screenshot%202023-11-28%20194839.png)
 + Academics
 + Undergraduate
 + Mphil / Mphil
