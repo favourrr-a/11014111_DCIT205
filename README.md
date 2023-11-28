@@ -2,6 +2,14 @@
 # Introduction and Purpose of this website
 This is a 10-page website for the Computer Science Department at the University of Ghana
 
+#### Colour Themes used
+[syntax plugins](<!-- Coolors Palette Widget -->
+      <script src="https://coolors.co/palette-widget/widget.js"></script>
+      <script data-id="029418800526019884">new CoolorsPaletteWidget("029418800526019884", ["c9c9ee","baabbd","9f838c","8d7471","242325"]); </script>)
+
+### Purpose
+This website was created to be user-friendly and aethetically pleasing to look at while maintaining functionality. It has pages for the various part of the Computer Science department. 
+
 #### Pages within the website
 + Home
 + Academics
