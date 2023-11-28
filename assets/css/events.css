@@ -37,12 +37,19 @@ h2.eventsTypeH{
     position: absolute;
     right: 0px;
     bottom: 0px;
-    background-color: #EA526F;
+    background-color: #BAABBD;
     height: 170px;
     padding-left: 230px;
     padding-right: 15px;
 }
 
+#div1{
+    background-color: #EFE9AE;
+}
+
+#div2{
+    background-color: #DC965A;
+}
 .mainBodyE{
     display: block;
     background-color: white;
@@ -51,17 +58,32 @@ h2.eventsTypeH{
     width: 1170px;
 }
 
-.eventsEventsCoUp{
-    
-}
-
-.eventsEventUp {
-    width: 700px;
+div.eventsEventUp {
+    width: 1100px;
     position: relative;
-    right: 0px;
-    bottom: 0px;
-    background-color: #EA526F;
-    height: 250px;
+    height: 350px;
     padding-left: 230px;
     padding-right: 15px;
+    margin-bottom: 20px;
+}
+
+
+.eventsEventUp img{
+    width: 400px;
+    height: 300px; 
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: 1;
+}
+
+.eventsEventUp div{
+    position: absolute;
+    padding-left: 230px;
+    padding-right: 15px;
+    right: 0px;
+    bottom: 0px;
+    width: 900px;
+    background-color: #C9C9EE;
+    height: 300px;
 }

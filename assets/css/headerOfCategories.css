@@ -17,10 +17,12 @@ nav.header{
 a.header{
     margin-right: 40px;
     font-size: 15px;
+    text-transform: uppercase;
 }
 
 a.headerr{
     font-size: 12px;
+    text-transform: uppercase;
 }
 
 
