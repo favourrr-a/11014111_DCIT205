@@ -54,10 +54,8 @@ ID: 11014111
 + Undergraduate
   
   ![Alt Text](https://github.com/favourrr-a/11014111_DCIT205/blob/main/screenshots%20of%20website/undergrad/Screenshot%202023-11-28%20203104.png)
-  ![Alt Text](https://github.com/favourrr-a/11014111_DCIT205/blob/main/screenshots%20of%20website/undergrad/Screenshot%202023-11-28%20203104.png)
   ![Alt Text](https://github.com/favourrr-a/11014111_DCIT205/blob/main/screenshots%20of%20website/undergrad/Screenshot%202023-11-28%20203118.png)
   ![Alt Text](https://github.com/favourrr-a/11014111_DCIT205/blob/main/screenshots%20of%20website/undergrad/Screenshot%202023-11-28%20203128.png)
-  ![Alt Text](https://github.com/favourrr-a/11014111_DCIT205/blob/main/screenshots%20of%20website/undergrad/Screenshot%202023-11-28%20203136.png)
   
 + Mphil / Mphil
 
