@@ -57,7 +57,7 @@ ID: 11014111
   ![Alt Text](https://github.com/favourrr-a/11014111_DCIT205/blob/main/screenshots%20of%20website/undergrad/Screenshot%202023-11-28%20203118.png)
   ![Alt Text](https://github.com/favourrr-a/11014111_DCIT205/blob/main/screenshots%20of%20website/undergrad/Screenshot%202023-11-28%20203128.png)
   
-+ Mphil / Mphil
++ MPhil / MSc
 
   ![Alt Text](https://github.com/favourrr-a/11014111_DCIT205/blob/main/screenshots%20of%20website/msc.mphil/Screenshot%202023-11-28%20203146.png)
   ![Alt Text](https://github.com/favourrr-a/11014111_DCIT205/blob/main/screenshots%20of%20website/msc.mphil/Screenshot%202023-11-28%20203154.png)
@@ -70,16 +70,18 @@ ID: 11014111
   ![Alt Text](https://github.com/favourrr-a/11014111_DCIT205/blob/main/screenshots%20of%20website/phd/Screenshot%202023-11-28%20203233.png)
   
 + Short Courses
-  ![Alt Text](https://github.com/favourrr-a/11014111_DCIT205/blob/main/screenshots%20of%20website/about/Screenshot%202023-11-28%20195942.png)
-  ![Alt Text](https://github.com/favourrr-a/11014111_DCIT205/blob/main/screenshots%20of%20website/about/Screenshot%202023-11-28%20195951.png)
-  ![Alt Text](https://github.com/favourrr-a/11014111_DCIT205/blob/main/screenshots%20of%20website/about/Screenshot%202023-11-28%20200000.png)
-  ![Alt Text](https://github.com/favourrr-a/11014111_DCIT205/blob/main/screenshots%20of%20website/about/Screenshot%202023-11-28%20200013.png)
+  ![Alt Text](https://github.com/favourrr-a/11014111_DCIT205/blob/main/screenshots%20of%20website/shortCourses/Screenshot%202023-11-28%20203241.png)
+  ![Alt Text](https://github.com/favourrr-a/11014111_DCIT205/blob/main/screenshots%20of%20website/shortCourses/Screenshot%202023-11-28%20203249.png)
+  ![Alt Text](https://github.com/favourrr-a/11014111_DCIT205/blob/main/screenshots%20of%20website/shortCourses/Screenshot%202023-11-28%20203305.png)
+  ![Alt Text](https://github.com/favourrr-a/11014111_DCIT205/blob/main/screenshots%20of%20website/shortCourses/Screenshot%202023-11-28%20203316.png)
 
 + Entry Requirements
-  
-  ![Alt Text](https://github.com/favourrr-a/11014111_DCIT205/blob/main/screenshots%20of%20website/entryRequirements/Screenshot%202023-11-28%20203401.png)
-  ![Alt Text](https://github.com/favourrr-a/11014111_DCIT205/blob/main/screenshots%20of%20website/entryRequirements/Screenshot%202023-11-28%20203409.png)
+
   ![Alt Text](https://github.com/favourrr-a/11014111_DCIT205/blob/main/screenshots%20of%20website/entryRequirements/Screenshot%202023-11-28%20204017.png)
+  ![Alt Text](https://github.com/favourrr-a/11014111_DCIT205/blob/main/screenshots%20of%20website/entryRequirements/Screenshot%202023-11-28%20203409.png)
+  ![Alt Text](https://github.com/favourrr-a/11014111_DCIT205/blob/main/screenshots%20of%20website/entryRequirements/Screenshot%202023-11-28%20203401.png)
+  
+  
   
 + Reasearch
 
